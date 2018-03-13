@@ -1,0 +1,20 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCMakeToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+</keymap>

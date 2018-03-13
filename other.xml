@@ -1,0 +1,11 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" useCustomCMake="false" debuggerKind="BUNDLED_LLDB" />
+    </toolchains>
+    <debuggers />
+  </component>
+  <component name="OCNewClassSettings">
+    <option name="mySkipAddingToTheProject" value="true" />
+  </component>
+</application>
