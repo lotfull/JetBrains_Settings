@@ -92,7 +92,6 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="Vcs.Push">
