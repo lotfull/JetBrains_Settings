@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ChangesView.Move">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -69,12 +72,20 @@
     <keyboard-shortcut first-keystroke="shift meta alt h" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="PasteMultiple" />
   <action id="PopupHector" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
