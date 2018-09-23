@@ -5,14 +5,15 @@
       <mapping pattern="bash_foxford_audio" type="Bash" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
-      <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="lecture_stream_links" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
       <mapping pattern="submit_history" type="PLAIN_TEXT" />
+      <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
       <mapping ext="egp" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="vw" type="PLAIN_TEXT" />
     </extensionMap>
