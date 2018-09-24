@@ -34,20 +34,16 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoProject" />
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift f3" />
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
@@ -79,10 +75,13 @@
     <keyboard-shortcut first-keystroke="shift meta alt h" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -95,8 +94,9 @@
   <action id="PopupHector" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
