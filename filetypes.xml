@@ -17,6 +17,7 @@
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="vw" type="PLAIN_TEXT" />
+      <mapping ext="hql" type="SQL" />
     </extensionMap>
   </component>
 </application>
