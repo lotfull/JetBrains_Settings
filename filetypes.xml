@@ -3,6 +3,16 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="bash_foxford_audio" type="Bash" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
@@ -16,7 +26,6 @@
       <mapping ext="egp" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="vw" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
     </extensionMap>
   </component>
