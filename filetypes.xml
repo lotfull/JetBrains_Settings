@@ -13,6 +13,7 @@
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="lecture_stream_links" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="submit_history" type="PLAIN_TEXT" />
