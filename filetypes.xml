@@ -22,6 +22,7 @@
       <mapping ext="egp" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
