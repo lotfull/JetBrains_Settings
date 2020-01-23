@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="jinja2" type="HTML" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
@@ -9,14 +10,14 @@
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="tatar_man_names" type="PLAIN_TEXT" />
       <mapping pattern="tatar_woman_names" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="lecture_stream_links" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
-      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="play" type="PLAIN_TEXT" />
       <mapping pattern="submit_history" type="PLAIN_TEXT" />
       <mapping ext="egp" type="PLAIN_TEXT" />
