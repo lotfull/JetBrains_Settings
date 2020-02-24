@@ -2,20 +2,21 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="bash_foxford_audio" type="Bash" />
       <mapping ext="jinja2" type="HTML" />
+      <removed_mapping ext="cfg" type="Ini" />
+      <removed_mapping ext="jinja2" type="Jinja2" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="tatar_woman_names" type="PLAIN_TEXT" />
+      <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="lecture_stream_links" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
-      <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="tatar_man_names" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
@@ -23,22 +24,14 @@
       <mapping pattern="submit_history" type="PLAIN_TEXT" />
       <mapping pattern="play" type="PLAIN_TEXT" />
       <mapping ext="egp" type="PLAIN_TEXT" />
-      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <removed_mapping ext="cfg" type="Ini" />
+      <mapping pattern="bash_foxford_audio" type="Bash" />
     </extensionMap>
   </component>
 </application>
