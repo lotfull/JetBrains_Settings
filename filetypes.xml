@@ -6,6 +6,8 @@
       <mapping pattern=".env.dev-sample" type=".env file" />
       <mapping pattern=".env.prod.db" type=".env file" />
       <mapping pattern=".env.prod" type=".env file" />
+      <mapping pattern=".env.dev" type=".env file" />
+      <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="bash_foxford_audio" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".env.prod.db-sample" type="Env File" />
