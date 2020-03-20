@@ -3,9 +3,9 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".env.prod.US" type=".env file" />
+      <mapping pattern=".env.dev-sample" type=".env file" />
       <mapping pattern=".env.prod-sample" type=".env file" />
       <mapping pattern=".env.prod.DE" type=".env file" />
-      <mapping pattern=".env.dev-sample" type=".env file" />
       <mapping pattern=".env.prod.db" type=".env file" />
       <mapping pattern=".env.prod.EE" type=".env file" />
       <mapping pattern=".env.prod" type=".env file" />
