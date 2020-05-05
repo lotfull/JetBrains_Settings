@@ -37,6 +37,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping ext="curl" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
       <removed_mapping ext="jinja2" approved="true" type="PLAIN_TEXT" />
