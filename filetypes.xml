@@ -25,6 +25,7 @@
       <mapping pattern="lecture_stream_links" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="m" type="PLAIN_TEXT" />
+      <mapping pattern=".crontab" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
