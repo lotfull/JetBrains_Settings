@@ -19,6 +19,7 @@
       <mapping ext="wav" type="Native" />
       <mapping pattern="tatar_woman_names" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="api(1)" type="PLAIN_TEXT" />
       <mapping pattern="play" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
@@ -28,6 +29,7 @@
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
