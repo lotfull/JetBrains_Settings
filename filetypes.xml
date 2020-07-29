@@ -17,6 +17,7 @@
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
+      <mapping pattern="api(2)" type="PLAIN_TEXT" />
       <mapping pattern="tatar_woman_names" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="api(1)" type="PLAIN_TEXT" />
@@ -29,15 +30,14 @@
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="Cuda-Lotfullin-Kamil" type="PLAIN_TEXT" />
-      <mapping pattern="css(1)" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="tatar_man_names" type="PLAIN_TEXT" />
+      <mapping pattern="css(1)" type="PLAIN_TEXT" />
       <mapping pattern="submit_history" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
-      <mapping pattern="api(2)" type="PLAIN_TEXT" />
       <mapping ext="egp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
