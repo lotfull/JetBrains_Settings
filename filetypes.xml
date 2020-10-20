@@ -44,6 +44,7 @@
       <mapping ext="m3u8" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="curl" type="PLAIN_TEXT" />
+      <mapping ext="2020-07-292" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
       <removed_mapping ext="jinja2" approved="true" type="PLAIN_TEXT" />
