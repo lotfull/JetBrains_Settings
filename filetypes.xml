@@ -20,6 +20,7 @@
       <mapping pattern="api(2)" type="PLAIN_TEXT" />
       <mapping pattern="tatar_woman_names" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="wait-for" type="PLAIN_TEXT" />
       <mapping pattern="api(1)" type="PLAIN_TEXT" />
       <mapping pattern="play" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
