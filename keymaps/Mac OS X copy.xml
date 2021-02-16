@@ -10,6 +10,7 @@
   <action id="ChangesView.Move">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -37,6 +38,7 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorMatchBrace" />
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -114,6 +116,7 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="meta alt s" />
