@@ -13,9 +13,9 @@
       <mapping pattern=".env.prod.EE" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern=".env.prod.US" type=".env file" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
@@ -53,7 +53,7 @@
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern="pull_build" type="Shell Script" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="jinja2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
