@@ -46,6 +46,7 @@
       <mapping ext="egp" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="curl" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
