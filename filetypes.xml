@@ -21,6 +21,7 @@
       <mapping ext="wav" type="Native" />
       <mapping pattern="api(1)" type="PLAIN_TEXT" />
       <mapping pattern="wait-for" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
