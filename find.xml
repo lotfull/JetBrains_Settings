@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="code + tests" />
-    <option name="defaultScopeName" value="code + tests" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="code + tests" />
+    <option name="customScope" value="code + tests + migrations" />
+    <option name="defaultScopeName" value="code + tests + migrations" />
+    <option name="SEARCH_SCOPE" value="code + tests + migrations" />
   </component>
 </application>
