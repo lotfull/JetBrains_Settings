@@ -13,6 +13,7 @@
       <mapping pattern=".env.prod.EE" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern=".env.prod.US" type=".env file" />
+      <mapping pattern="celerybeat-schedule" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
