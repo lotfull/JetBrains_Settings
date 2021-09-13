@@ -15,7 +15,7 @@
       <mapping pattern=".env.prod.US" type=".env file" />
       <mapping pattern="celerybeat-schedule" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
@@ -56,7 +56,7 @@
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern="pull_build" type="Shell Script" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="jinja2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
