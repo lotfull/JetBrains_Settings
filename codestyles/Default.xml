@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="80" />
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -23,6 +24,9 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -32,6 +36,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="100" />
+    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
