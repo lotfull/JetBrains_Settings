@@ -137,11 +137,12 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta p" />
   </action>
-  <action id="Vcs.Push.Force">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift p" />
-  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta a" />
   </action>
   <action id="hg4idea.QFold" />
 </keymap>
