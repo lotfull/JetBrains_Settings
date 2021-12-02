@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="SOFT_MARGINS" value="80" />
+  <option name="SOFT_MARGINS" value="100" />
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -36,7 +36,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="100" />
-    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
