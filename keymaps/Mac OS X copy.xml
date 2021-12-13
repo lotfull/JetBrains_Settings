@@ -36,6 +36,9 @@
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorMatchBrace" />
@@ -107,6 +110,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
