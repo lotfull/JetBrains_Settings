@@ -5,9 +5,6 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FindNext" />
   <action id="Git.Fetch">
@@ -18,7 +15,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift meta right" />
     <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
   <action id="Vcs.Push">
