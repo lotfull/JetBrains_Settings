@@ -5,6 +5,8 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="celerybeat-schedule" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="play" type="PLAIN_TEXT" />
@@ -24,6 +26,7 @@
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="api(2)" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="m" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="wape_calculation_sas_code" type="PLAIN_TEXT" />
@@ -49,6 +52,7 @@
       <removed_mapping ext="jinja2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".jinja2" approved="true" type="Jinja2" />
       <mapping pattern=".env.dev" type=".env file" />
       <mapping pattern=".env.dev-sample" type=".env file" />
