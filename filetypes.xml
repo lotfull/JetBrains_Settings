@@ -4,11 +4,13 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="celerybeat-schedule" type="AUTO_DETECTED" />
+      <mapping ext="conf" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
+      <removed_mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern="play" type="PLAIN_TEXT" />
       <mapping pattern="freestyle" type="PLAIN_TEXT" />
       <mapping pattern="api(1)" type="PLAIN_TEXT" />
