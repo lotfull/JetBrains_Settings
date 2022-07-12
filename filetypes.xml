@@ -45,6 +45,7 @@
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="mxl" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
