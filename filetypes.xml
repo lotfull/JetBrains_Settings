@@ -60,7 +60,6 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".jinja2" approved="true" type="Jinja2" />
-      <mapping ext="txt" type="requirements-pro.txt" />
       <mapping pattern=".env.dev" type=".env file" />
       <mapping pattern=".env.dev-sample" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
