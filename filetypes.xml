@@ -8,6 +8,7 @@
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
+      <mapping ext="thumbnail" type="Image" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="play" type="PLAIN_TEXT" />
