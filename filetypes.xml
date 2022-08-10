@@ -43,7 +43,6 @@
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="curl" type="PLAIN_TEXT" />
       <mapping ext="prof" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
