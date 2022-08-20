@@ -7,13 +7,27 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt c" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
   <action id="FindNext" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta f" />
   </action>
   <action id="MoveElementRight" />
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
