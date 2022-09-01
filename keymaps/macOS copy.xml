@@ -11,7 +11,13 @@
   <action id="Diff.PrevChange" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
