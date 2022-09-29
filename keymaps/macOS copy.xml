@@ -10,6 +10,9 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditCustomProperties">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta down" />
