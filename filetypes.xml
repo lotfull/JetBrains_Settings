@@ -49,9 +49,11 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="mxl" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping pattern="kamavitobot.py" type="Python" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern="pull_build" type="Shell Script" />
+      <mapping ext="txt" type="requirements-pro.txt" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
