@@ -28,11 +28,15 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta f" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
+  </action>
   <action id="MoveElementRight" />
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
