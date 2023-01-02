@@ -3,11 +3,10 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="celerybeat-schedule" type="AUTO_DETECTED" />
       <mapping ext="conf" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="play" type="PLAIN_TEXT" />
@@ -45,8 +44,6 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="mxl" type="PLAIN_TEXT" />
-      <mapping pattern="kamavitobot.py" type="Python" />
-      <mapping ext="hql" type="SQL" />
       <mapping pattern="pull_build" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
@@ -56,7 +53,10 @@
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".jinja2" approved="true" type="Jinja2" />
+      <mapping ext="env" type="Env File" />
+      <mapping ext="hql" type="SQL" />
       <mapping ext="txt" type="requirements-pro.txt" />
+      <mapping pattern=".env.*" type="Env File" />
       <mapping pattern=".env.dev" type=".env file" />
       <mapping pattern=".env.dev-sample" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
@@ -69,6 +69,7 @@
       <mapping pattern=".env.prod.db-sample" type=".env file" />
       <mapping pattern=".env.staging" type=".env file" />
       <mapping pattern="bash_foxford_audio" type="Bash" />
+      <mapping pattern="kamavitobot.py" type="Python" />
     </extensionMap>
   </component>
 </application>
